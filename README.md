@@ -64,27 +64,3 @@ You can download the latest version of the app here:
 ## 🏆 Recognition
 
 This project was designed to **revolutionize how students perceive science** and is being considered for **world record recognition** due to its innovation and potential impact in the field of education technology.
-
----
-
-## 🤝 Contributing
-
-We’re open to collaborations with:
-- Educators
-- AR Developers
-- Content Creators
-
-Feel free to open issues or pull requests for suggestions or improvements!
-
----
-
-##  Contact
-
-For queries, partnerships, or suggestions:
-
-**Sandesh Khilari**  
-📧 Email: sndsh.khilari@gmail.com  
-
----
-
-> Made with ❤️ by Team AVINYA to make science magical.
